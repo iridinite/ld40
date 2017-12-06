@@ -1,0 +1,42 @@
+LD40
+
+TODO:
+✔ Currency thing
+✔ Mines
+✔ Black background
+✔ Skybox
+✔ Ammo
+✔ UI Stuff
+✔ Airborne bonus
+✔ Health system
+✔ Valuable tiles
+✔ Game over
+✔ Title screen
+✔ How to play screen
+✔ basic sound effects
+✔ Limit upward Y velocity
+✔ Pause menu
+✔ App splash dialog
+
+MAYBE:
+✔ Timer
+✔ Dynamic cam distance (high power)
+✔ More pretty effects for max power
+x Depth meter?
+x Win condition
+✔ Dust particles (rolling / landing)
+✔ Break blocks around bombs
+✔ Score add texts
+✔ Player gibs
+✔ High-scores
+✔ Make bullets prettier
+✔ recoil eks dee
+✔ reduce bounciness on boulder
+✔ change ammo-full color (for skybox)
+
+powerups n shite
+x shotgun
+✔ HEAVY MACHINE GUN / UNNNNNLIMITTEDDDD AMMMMOOOOOOOOO
+✔ bomb drops
+✔ shield
+✔ LAZOR BEAM

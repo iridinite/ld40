@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 717acef276ca3b54f971571230251c8f
+timeCreated: 1512224696
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Proverbial Gothic Condensed
+  fontNames:
+  - SF Proverbial Gothic Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

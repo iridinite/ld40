@@ -1,0 +1,15 @@
+# Made using Asset Forge (1.2.1)
+
+:models
+Primitives/cylinder_donut[(0, -0.1, 0);(0.0, 0.0, 0.0);(1.2, 0.8, 1.2);(0.0, 0.0, 0.0);customMaterial1]
+Primitives/cylinder_donut[(0, 0, -0.1);(90.0, 0.0, 0.0);(1.2, 0.8, -1.2);(0.0, 0.0, 0.0);customMaterial1]
+Primitives/cylinder_donut[(0.1, 0, 0);(0.0, 0.0, 90.0);(1.2, 0.8, 1.2);(0.0, 0.0, 0.0);customMaterial1]
+Primitives/sphere_vertex[(0, -0.5, 0);(0.0, 0.0, 0.0);(1.0, 1.0, 1.0);(0.0, 0.0, 0.0);_defaultMat]
+
+:materials
+_defaultMat[RGBA(0.396, 0.853, 1.000, 1.000);]
+customMaterial1[RGBA(0.248, 0.308, 0.363, 1.000);]
+
+:textures
+
+:extra

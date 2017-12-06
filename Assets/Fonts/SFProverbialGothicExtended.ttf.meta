@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0110167a458d6684c93a07f3f9d56afd
+timeCreated: 1512224696
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Proverbial Gothic Extended
+  fontNames:
+  - SF Proverbial Gothic Extended
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
